@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Ferry";
+    src: url(./assets/fonts/Ferry/ferry.ttf);
+  }
+  
+  @font-face {
+    font-family: "Inter";
+    src: url(./assets/fonts/Inter/inter.ttf);
+  }
+  
+  * {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  body,
+  html {
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+  }
